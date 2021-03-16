@@ -54,7 +54,6 @@
 <url> <loc>https://community-development.makerdao.com/en/learn/collateral-and-risk/types-of-risk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/common-topics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://community-development.makerdao.com/en/learn/governance/module-dciam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/module-psm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/off-chain-gov/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/on-chain-gov/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -110,6 +109,7 @@
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/gov-risk-framework3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/how-voting-works/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/mkr-token/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://community-development.makerdao.com/en/learn/governance/module-dciam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/learn/governance/voting-setup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/resources/onboarding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://community-development.makerdao.com/en/resources/technical-content/brand-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
